@@ -18,7 +18,11 @@ h1{
     line-height: 1.5;
     font-weight: 900;
 }
-
+h2{
+    font-family: "Montserrat-Black", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
 /* Navigation Bar */
 
 .navbar-brand {
@@ -84,4 +88,33 @@ h1{
 
 .feature-desription {
     color: #8f8f8f;
+}
+
+/* Testimonial Section */
+
+#testimonials {
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+.carousel-item {
+    padding:7% 15%;
+}
+
+.testimonial-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding: 20px;
+}
+
+.press-logo {
+    width: 15%;
+    margin:20px 20px 50px;
 }
