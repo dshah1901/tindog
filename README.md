@@ -7,3 +7,5 @@ A simple website made using HTML, CSS and Bootstrap v4.5.3 as a part of The Comp
  * Bootstrap Grid Layout System
  * Bootstrap Containers
  * Bootstrap Buttons and Font Awesome
+ * Bootstrap Carousel
+ * Bootstrap Cards
