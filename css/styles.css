@@ -8,7 +8,7 @@ body{
 }
 
 .container-fluid{
-    padding: 3% 15%;
+    padding: 3% 15% 10%;
 }
 
 
@@ -55,7 +55,9 @@ h2{
 
 .title-img {
     width: 60%;
-    transform: rotate(25deg);
+    transform: rotate(20deg);
+    position: absolute;
+    right:30%;
 }
 
 /* Features section */
@@ -79,6 +81,9 @@ h2{
 
 #features {
     padding: 7% 15%;
+    background-color: #ffffffff;
+    position: relative;
+    /* z-index: 1; not necessary refer to the flowchart*/
 }
 
 .features-box {
