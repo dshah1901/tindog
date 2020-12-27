@@ -35,10 +35,17 @@ p{
     padding: 7% 15%;
 }
 
+/* sections */
+
+.coloured-section {
+    background-color: #ff4c68;
+    color:white;
+}
 
 
-
-
+.white-section {
+    background-color: #ffffffff;
+}
 
 
 /* Navigation Bar */
@@ -66,14 +73,9 @@ p{
 
 /* Title Section */
 
-#title {
-    background-color: #ff4c68;
-    color:white;
-    text-align: left;
-}
-
 #title .container-fluid {
     padding: 3% 15% 7%;
+    text-align: left;
 }
 
 /* Title Image */
@@ -129,7 +131,6 @@ p{
 
 #testimonials {
     background-color: #ef8172;
-    color: white;
 }
 
 .testimonial-text {
@@ -181,15 +182,8 @@ p{
 
 /* Call to action */
 
-#cta {
-    background-color: #ff4c68;
-}
-
-
 
 /* footer */
-
-
 
 .icon {
     margin:10px;  /*to separate the iamges/icon */
