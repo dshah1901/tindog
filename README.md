@@ -9,3 +9,8 @@ A simple website made using HTML, CSS and Bootstrap v4.5.3 as a part of The Comp
  * Bootstrap Buttons and Font Awesome
  * Bootstrap Carousel
  * Bootstrap Cards
+ * CSS z-index and stacking order
+ * Media Query breakpoints
+ * Advance CSS-Combining selectors
+ * Advance CSS- Selector Priority
+ * Refactoring the code
