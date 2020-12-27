@@ -134,3 +134,44 @@ h2{
 .pricing-column{
     padding: 3% 2%;
 }
+
+@media (max-width: 1028px) {
+
+    #title {
+        text-align: center;
+    }
+    .title-img {
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+/* Call to action */
+
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.cta-title {
+    font-family: "Montserrat-Black", sans-serif;
+    font-size: 3rem;
+    font-weight: 900;
+    margin: auto;
+    padding: 0 0 5%;
+    color: white;
+}
+
+/* footer */
+
+#footer {
+    text-align: center;
+    padding: 7%;
+}
+
+
+
+.icon {
+    margin:10px;  /*to separate the iamges/icon */
+}
